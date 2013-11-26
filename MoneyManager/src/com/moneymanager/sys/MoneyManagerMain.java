@@ -6,7 +6,7 @@ public class MoneyManagerMain {
 		
 		
 		System.out.println("Hallo!");
-
+		System.out.println("Commit 2");
 	}
 
 }
